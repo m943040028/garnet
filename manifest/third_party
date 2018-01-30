@@ -2,7 +2,7 @@
 <manifest>
   <imports>
     <localimport file="minimal"/>
-    <import remote="ssh://review.gerrithub.io:29418/OpenTrustGroup/manifest"
+    <import remote="ssh://git@github.com/m943040028/manifest"
             remotebranch="gzos"
             manifest="build"
             name="manifest"/>
